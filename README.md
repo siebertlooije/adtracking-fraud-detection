@@ -57,10 +57,23 @@ Source:
 
 - Findings
 
+### Data cleaning -> (Pyspark vs Pandas)
+
+
 ### Feature extraction
 Source:
+- Genetic algorithm (evolutionary algorithm for feature extraction)?
+- Feature importance?
+- 
+
 ### Used models
+- Simple decision tree
+- Simple random forest
 
 ### Results
 
 ### Evaluation
+
+| Model        | Performance           
+| ------------- |:-------------:| 
+|to-do      | to-do |
