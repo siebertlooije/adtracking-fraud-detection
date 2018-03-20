@@ -40,3 +40,9 @@ The test data is similar, with the following differences:
 
 - click_id: reference for making predictions
 - is_attributed: not included
+
+### File descriptions
+- train.csv - the training set
+- train_sample.csv - 100,000 randomly-selected rows of training data, to inspect data before downloading full set
+- test.csv - the test set
+- sampleSubmission.csv - a sample submission file in the correct format
