@@ -46,3 +46,11 @@ The test data is similar, with the following differences:
 - train_sample.csv - 100,000 randomly-selected rows of training data, to inspect data before downloading full set
 - test.csv - the test set
 - sampleSubmission.csv - a sample submission file in the correct format
+
+
+### Exploration
+
+### Feature extraction
+
+### Used models
+
