@@ -47,10 +47,20 @@ The test data is similar, with the following differences:
 - test.csv - the test set
 - sampleSubmission.csv - a sample submission file in the correct format
 
+### Possible features
+- Delta time between click_time and attribute_time
+- Time features of the attribute_time and/or click_time
+- Can we make extra features from the ip ?
 
 ### Exploration
+Source:
+
+- Findings
 
 ### Feature extraction
-
+Source:
 ### Used models
 
+### Results
+
+### Evaluation
