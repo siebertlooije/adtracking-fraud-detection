@@ -25,7 +25,6 @@ def cast_to_integer(df,columns):
         df = df.withColumn(column, F.col(column).cast(IntegerType()))
     return df
 
-
 def convert_to_spark(df,label_):
     columns = list(set(df.columns) - set([label_]))
 

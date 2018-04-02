@@ -1,6 +1,3 @@
-
-
-
 def load(spark,path,type="csv"):
     #Load the dataset from the csv file
     assert(type in ["csv","parquet"], "Type :{} is not of types :{}".format(type,["csv","parquet"]))
